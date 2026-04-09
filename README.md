@@ -67,7 +67,7 @@ Em relação aos resultados, a execução do crawler resultou em um número sign
 
 A quantidade de links internos encontrados na página inicial foi de 141 links, o que levou à geração de diversos arquivos HTML na etapa de coleta. 
 
-Na segunda etapa, ao processar esses arquivos, foram identificados  de links de imagens, refletindo a grande quantidade de elementos visuais presentes nas páginas da Wikipédia. 
+Na segunda etapa, ao processar esses arquivos, foram identificados 4038 links de imagens, refletindo a grande quantidade de elementos visuais presentes nas páginas da Wikipédia. 
 
 Os números demonstram que, mesmo com um código relativamente simples, é possível obter um volume considerável de dados a partir de uma única página inicial, evidenciando o potencial do web scraping para coleta de dados.
 
